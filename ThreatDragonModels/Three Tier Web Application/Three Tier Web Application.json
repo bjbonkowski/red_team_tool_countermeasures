@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.6.2",
   "summary": {
     "title": "Three Tier Web Application",
     "owner": "A development team",
@@ -22,10 +22,10 @@
       {
         "id": 0,
         "title": "Three Tier Web App",
-        "diagramType": "STRIDE",
-        "placeholder": "New STRIDE diagram description",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
-        "version": "2.4.0",
+        "diagramType": "LINDDUN",
+        "placeholder": "New LINDDUN diagram description",
+        "thumbnail": "./public/content/images/thumbnail.linddun.jpg",
+        "version": "2.6.2",
         "cells": [
           {
             "position": {
